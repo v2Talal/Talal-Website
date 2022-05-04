@@ -56,8 +56,8 @@ a:hover {
 }
 
 #flip div:first-child {
-    animation: show 8s linear infinite;
-    animation-delay: 7.4s;
+    animation: show 10s linear infinite;
+    animation-delay: 10.5s;
     visibility: hidden;
 }
 
